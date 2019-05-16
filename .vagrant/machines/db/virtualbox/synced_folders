@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/environment":{"guestpath":"/home/ubuntu/environment","hostpath":"/Users/tech-a29/Documents/starter-code-nginx-reverse-proxy/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a29/Documents/starter-code-nginx-reverse-proxy","disabled":false,"__vagrantfile":true}}}
